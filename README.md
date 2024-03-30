@@ -7,7 +7,7 @@ https://tela-login-signup.vercel.app/
 <br><br>
 
 ## 🎯 Objetivo:
-<span>A aplicação tem como objetivo demonstrar as telas de Login e Signup de um sistema.</span>
+<span>Treinar o desenvolvimento de uma tela de Login e Signup de um sistema.</span>
 <br><br>
 
 ## 💡 Tecnologias:
@@ -20,7 +20,7 @@ As tecnologias utilizadas foram: HTML, CSS, Git e Vercel.
 </div>
 <br>
 
-## ✋ Pré-requisitos:
+## ✋ Pré-requisitos para uso:
 <ul>
   <li>Ter acesso a internet;</li>
   <li>Ter acesso a algum navegador de internet (Google Chrome, Mozilla, Edge ou qualquer outro).</li>
